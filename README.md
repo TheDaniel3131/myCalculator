@@ -1,2 +1,2 @@
 # myCalculator
-A Simple, Good Looking UI of Calculator In Java.
+A Very Basic, Simple Calculator With Good GUI In Java.
